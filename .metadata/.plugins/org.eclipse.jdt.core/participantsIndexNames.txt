@@ -1,0 +1,3 @@
+INDEX VERSION 1.131
+C:\study\androidserver\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\947957072.index
+\Server01\src
